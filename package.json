@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Domires",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "multer": "^1.4.2"
